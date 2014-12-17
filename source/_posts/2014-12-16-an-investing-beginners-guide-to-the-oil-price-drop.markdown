@@ -23,11 +23,15 @@ Global Partners LP is one of the largest wholesale distributors of gasoline, hom
 
 They are currently nearing their 52 week low of $32.77 but have been putting up completely solid numbers. Seems like they are oversold and would be a great company to look more into. [Check out the Cappio report here](http://www.capp.io/queries/new?query=GLP) for more details on it’s fundamentals.
 
+[{% img http://i.imgur.com/Rk1m4RC.png GLP Report %}](http://www.capp.io/queries/new?query=GLP)
+
 Read more about GLP from [The Street - One Reason Global Partners is Down](http://www.thestreet.com/story/12976330/1/one-reason-global-partners-glp-stock-is-down-today.html)
 
 ###Schlumberger Limited (NYSE: SLB)
 
 Schlumberger Limited is an oilfield services company that supplies technology, integrated project management, and information solutions to oil and gas exploration and production. With the prices at they are right now, oil producers need Schlumberger technology to increase production and margins. Schlumberger's financials show amazing stability. You can see the solid numbers from [their Cappio report](http://www.capp.io/queries/new?query=SLB)
+
+[{% img http://i.imgur.com/czrHolJ.png SLB Report %}](http://www.capp.io/queries/new?query=SLB)
 
 More indepth analysis on Schlumberger can be found on [Seeking Alpha - Schlumberger is the Last haven in a Collapsing Oil Market](http://seekingalpha.com/article/2720905-schlumberger-is-the-last-haven-in-a-collapsing-oil-market)
 
@@ -35,11 +39,15 @@ More indepth analysis on Schlumberger can be found on [Seeking Alpha - Schlumber
 
 Exxon Mobil Corporation explores and produces for crude oil and natural gas. It is considered a safe play way to directly invest in a potential oil rebound because they produce oil and natural gas at a 50/50 ratio. Exxon has historically been accused of it’s large exposure to natural gas, which has greatly lagged the price of crude oil in the last six years. With the recent dip in price this split is now positive. It also explains why the stock of Exxon has lost only 10% of its value in the last five months, while Chevron has lost 17% and BP has lost 19%. [Check the Cappio report here](http://www.capp.io/queries/new?query=xom)
 
+[{% img http://i.imgur.com/d3aJLQm.png XOM Report %}](http://www.capp.io/queries/new?query=xom)
+
 Read a more indepth analysis from [Seeking Alpha - Exxon Mobile is the Safest Way to play the Oil Rebound](http://seekingalpha.com/article/2749565-exxonmobil-the-safest-way-to-play-the-oil-rebound)
 
 ###Delta Air Lines, Inc. (NYSE: DAL)
 
 Fuel makes up a third of airlines’ operating costs. According to the Air Transportation Association (ATA), fuel is an airline's second largest expense. With these prices falling their margins are increased substantially. [Here are some of solid fundamentals they are showing on their Cappio report](http://www.capp.io/queries/new?query=dal)
+
+[{% img http://i.imgur.com/AYb42Qd.png DAL Report %}](http://www.capp.io/queries/new?query=dal)
 
 Read more from: [Seeking Alpha - Delta to Profit from Low Oil Prices](http://seekingalpha.com/article/2661305-delta-air-lines-to-profit-from-low-oil-price) and [Yahoo! Finance - Why Airline Stocks Should Keep Soaring](http://finance.yahoo.com/blogs/talking-numbers/cleared-for-takeoff--why-airline-stocks-should-keep-soaring-204133931.html)
 
@@ -51,4 +59,4 @@ However, it’s impossible to time the market so accurately predicting where oil
 
 Luckily the world is no longer solely dependant on OPEC for oil. Russia, America and others are also huge players in the market that have influence on prices. For further information on how the geopolicitcal landscape could quickly cause a rebound in prices, [reference MarketWatch's article](http://www.marketwatch.com/story/three-scenarios-that-result-in-a-rebound-for-oil-2014-12-15)
 
-Hope you found this quick article helpful! We'll be releasing more quick summaries on our blog.
+Hope you found this article helpful! Be sure to follow us on Twitter and StockTwits for updates on our blog.
